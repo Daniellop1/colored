@@ -1,0 +1,24 @@
+{
+    "name": "colored",
+    "displayName": "Colored",
+    "description": "Color theme for developers",
+    "version": "0.0.3",
+    "publisher": "Daniellop",
+    "icon": "logo.png",
+    "repository": "Daniellop1/colored",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Colored",
+                "uiTheme": "vs",
+                "path": "./themes/Colored-color-theme.json"
+            }
+        ]
+    }
+}
