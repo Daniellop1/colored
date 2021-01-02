@@ -1,4 +1,4 @@
-#Colored
+# Colored
 
 Vs code theme
 
